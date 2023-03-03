@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Frontend
 
 - 💬 Ask me about what? XD
-- 📫 How to reach me: <a herf ="https://t.me/goodfirls" rel="nofollow">Telegram </a>
+- 📫 How to reach me: <a href ="https://t.me/goodfirls">Telegram </a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: liverpool bapuk banget dah musim ini
 
