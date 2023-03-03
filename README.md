@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 
 
-im still newbie, Maybe
+👋 i am Faris
+
 <!--
 **FARIS137/FARIS137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
