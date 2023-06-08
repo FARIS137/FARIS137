@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about what? XD
 - 📫 How to reach me: <a href ="https://t.me/goodfirls">Telegram </a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: liverpool bapuk banget dah musim ini
+- ⚡ Fun fact: liverpool akan banjir trophy
 
+https://movie-ais.vercel.app/
 
 
