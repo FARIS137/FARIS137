@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href ="https://t.me/goodfirls">Telegram </a>
 - 😄 Pronouns: he/him
 
-https://movie-ais.vercel.app/
+https://covid-ais.vercel.app/
 
 
